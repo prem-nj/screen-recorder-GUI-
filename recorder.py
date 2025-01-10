@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-import pyscreenrec  # Screen Recorder Library
-
+import pyscreenrec  
 
 root = Tk()
 root.geometry("400x500")
