@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Developers of the Tkinter, pyautogui, pillow, and opencv-python libraries.
 
 ## Contact
-For any questions or feedback, please contact [your email].
+For any questions or feedback, please contact prembahi89@gmail.com.
 
